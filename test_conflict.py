@@ -1,4 +1,4 @@
 def test_first():
     assert 3 > 1
 def second():
-    assert 4 > 7
+    assert 4 > 8
